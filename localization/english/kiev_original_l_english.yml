@@ -1,0 +1,29 @@
+﻿l_english:
+ # english/artifacts/artifacts_l_english.yml
+ artifact_szczerbiec_description:1 "Said to have been given to king Boleslaw the Brave by an angel, this sword is claimed to be the one used to strike the golden gate of Kiev. It carries immense symbolic significance."
+
+
+ # english/dynasties/dynasty_names_l_english.yml
+ dynn_Kievskiy:1 "Kievskiy"
+ dynn_Kievy:0 "Kievy"
+
+
+ # english/religion/religion_l_english.yml
+ holy_site_kiev_name:1 "Kiev"
+
+
+ # english/buildings_l_english.yml
+ building_type_golden_gate_of_kiev_01:1 "Golden Gate of Kiev"
+ building_type_golden_gate_of_kiev_01_desc:1 "Modeled and named after a gate in Constantinople, the Golden Gate of Kiev serves as both an entrance to the city and a triumphal arch. The golden dome of the church, built on top of the gate, can be seen from afar and makes it a prominent symbol of Kiev."
+
+
+ # english/mercenaries_l_english.yml
+ mercenary_company_kievan_band:1 "Kievan Band"
+
+
+ # english/titles_l_english.yml
+ b_kiev:1 "Kiev"
+ c_kiev:1 "Kiev"
+ c_kiev_adj:2 "Kievan"
+ d_kiev:1 "Kiev"
+ d_kiev_adj:1 "Kievan"

@@ -1,0 +1,15 @@
+[img]https://github.com/sorx00/ck3-kiev-original/blob/master/doc/img/Laurentian_Codex_1377_p4_crop.png?raw=true[/img]
+
+Returns the historically correct transliteration of the name of the city of Kiev, taken from the Laurentian Chronicle, which Paradox Interactive broke in patch 1.5.1.
+
+[B][url=https://github.com/sorx00/ck3-kiev-original/releases]Project on Github[/url][/B]
+
+[h1]Version 1.0.0 Changelog[/h1]
+[LIST]
+[*]Rename "Kyiv" to "Kiev" at artifact_szczerbiec_description:1 ([i]localization/english/artifacts/artifacts_l_english.yml[/i])
+[*]Rename "Kyivskiy" to "Kievskiy" at dynn_Kievskiy:1, key "dynn_Kyivy:0 Kyivy" to "dynn_Kyivy:0 Kievy" ([i]localization/english/dynasties/dynasty_names_l_english.yml[/i])
+[*]Rename "Kyiv" to "Kiev" at holy_site_kiev_name:1 ([i]localization/english/religion/religion_l_english.yml[/i])
+[*]Rename "Kyiv" to "Kiev" at building_type_golden_gate_of_kiev_01:1, building_type_golden_gate_of_kiev_01_desc:1 ([i]localization/english/buildings_l_english.yml[/i])
+[*]Rename "Kyivan Band" to "Kievan Band" at mercenary_company_kievan_band:1 ([i]localization/english/mercenaries_l_english.yml[/i])
+[*]Rename "Kyiv" to "Kiev" at b_kiev:1, c_kiev:1, d_kiev:1 and "Kyivan" to "Kievan" at c_kiev_adj:2, d_kiev_adj:1 ([i]localization/english/titles_l_english.yml[/i])
+[/LIST]
